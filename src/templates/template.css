@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+*, *::before, *::after{
+    box-sizing: border-box !important; 
+    padding: 0 !important;
+    margin: 0 !important; 
+    overflow: hidden;
+    overflow-x: hidden; 
+}
+
+
