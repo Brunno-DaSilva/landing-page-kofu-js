@@ -278,39 +278,3 @@ Computed properties coming soon
   npm run compile
   npm run watch
   ```
-## Credits
-- Demo uses Custom Bootstrap 4 theme created by [__Creative Tim__](https://creative-tim.com)
-
-
-
-Goal is to be able to make it so it works like NUXT or NEXT out of the box with the Starter Kit but it could also be used as a mere SPA with using just Kofu.js and Vanilla Router
-  todo : fork Vanilla Router and make Kofu Router
-
-## Project Reason
-    - Academic pursuit as a faculty member
-    - Main purpose is to show students inner workings of FrontEnd / Full Satck Frameworks
-    - Secondary Purpose is for usage with Freelance Projects
-    - Third purpose is that maybe someone will love the project and use it for their own projects and hopefully help make it better
-## Timeline to Beta
-    - Hopeful Beta is May 22 2020
-## Resources and Inspiration
-  - Evan You and VueJS
-  - Jose Santos Garcia Web Developer Starter kit
-  - Marvin Frachet Create a FrontEnd Framework
-  - Jafar Husain (ASYNC with RXJS)
-  - Sean Larkin (Webpack)
-  - Kyle Simpson (Getify)
-  - Brad Traversy
-  - Stephen Grider
-  - Colt Steele
-## todo
-    - Create a build chain and dev server setup with Gulp, Webpack, Express, Nodemon and BrowserSync (Done)
-    - Integrate JSS (Done)
-    - Integrate Lodash Natively by exposing map, reduce and filter to every component (done)
-    - Set up RXJS
-## Why?
-  - There are things I love about React and Things I love about Vue and things I love about Nuxt.js
-  - I want this project to be a true framework that includes a Router, State Management, Isomorphic Behavior, and Component Library out of the box
-  - It also needs to be easy to use only what you need
-  - I want to make this the framework you might turn to if you really want to build an application with rxjs
-
