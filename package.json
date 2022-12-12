@@ -23,7 +23,7 @@
     "clean-webpack-plugin": "^0.1.0",
     "coffeescript": "^2.4.1",
     "consola": "^2.11.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "gulp": "^4.0.2",
     "gulp-coffee": "^3.0.3",
     "gulp-nodemon": "^2.4.2",
